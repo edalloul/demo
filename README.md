@@ -4,4 +4,4 @@ This is a simple readme file v2
 
 CHANGED FILE
 
-Very bad commit
+I hope this won't cause a conflict
